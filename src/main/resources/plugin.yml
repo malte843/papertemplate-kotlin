@@ -1,0 +1,10 @@
+name: PaperTemplate
+version: 1.0
+main: de.malte.papertemplate.PaperTemplate
+api-version: 1.18
+author: malte
+website: asula.de
+
+commands:
+  kit:
+    usage: /<command>
